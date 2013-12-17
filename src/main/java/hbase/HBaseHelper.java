@@ -1,4 +1,4 @@
-package Kafka.pullmodel;
+package hbase;
 
 import java.io.IOException;
 import java.util.ArrayList;

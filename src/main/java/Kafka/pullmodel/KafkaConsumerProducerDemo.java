@@ -16,6 +16,9 @@
  */
 package Kafka.pullmodel;
 
+import producerConsumer.Consumer;
+import producerConsumer.Producer;
+
 public class KafkaConsumerProducerDemo implements KafkaProperties
 {
 	

@@ -1,5 +1,7 @@
 package Kafka.pullmodel;
 
+import producerConsumer.Consumer;
+
 public class FixPullUp {
 
 	

@@ -1,4 +1,4 @@
-package Kafka.pullmodel;
+package DO;
 
 public class CrimeData {
 

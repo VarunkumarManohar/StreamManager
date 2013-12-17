@@ -19,6 +19,9 @@ package Kafka.pullmodel;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import producerConsumer.Producer;
+import util.ExampleUtils;
 import kafka.api.FetchRequest;
 import kafka.javaapi.MultiFetchResponse;
 import kafka.javaapi.consumer.SimpleConsumer;

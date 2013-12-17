@@ -1,5 +1,8 @@
 package Kafka.pullmodel;
 
+import hbase.HBaseHelper;
+import hbase.HBaseLoader;
+
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.hbase.client.Get;
 import org.apache.hadoop.hbase.client.HTable;

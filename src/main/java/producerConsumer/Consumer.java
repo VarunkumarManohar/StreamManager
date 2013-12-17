@@ -14,13 +14,17 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package Kafka.pullmodel;
+package producerConsumer;
 
 
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Properties;
+
+import Kafka.pullmodel.KafkaProperties;
+import Kafka.pullmodel.PutData;
+import util.ExampleUtils;
 import kafka.consumer.ConsumerConfig;
 import kafka.consumer.ConsumerIterator;
 import kafka.consumer.KafkaStream;
